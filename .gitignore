@@ -73,7 +73,7 @@ _TeamCity*
 *.dotCover
 
 # NCrunch
-*.ncrunch*
+.ncrunch
 .*crunch*.local.xml
 
 # Installshield output folder
